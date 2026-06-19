@@ -1,0 +1,29 @@
+body {
+    overflow: hidden;
+}
+
+#content {
+    margin: 4%;
+    max-width: 50%;
+}
+
+img {
+    margin-bottom: 4%;
+}
+
+h1 {
+    font-family: "Josefin Sans", serif;
+    font-weight: 300;
+    font-size: 30px;
+    display: inline;
+}
+
+p {
+    display: inline;
+    font-family: "Crimson Pro", serif;
+    font-size: 17px;
+}
+
+a.black {
+    color: black;
+}
